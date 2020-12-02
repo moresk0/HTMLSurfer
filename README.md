@@ -1,2 +1,3 @@
 # HTMLSurfer
-Explore HTML and count words
+
+Exploring web pages using Requests and BeutifulSoup.
