@@ -17,4 +17,4 @@ At the and of process two files are created.
 
 In midprocess main.tmp file is created where unfiltered links are stored. There is option for delete it in code, but it's commented out. 
 
-Code surely isn't best, but it kinda works :D
+Code surely isn't the best, but it kinda works :D
